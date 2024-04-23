@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+.wrapper {
+  width: 600px;
+  margin: 0 auto;
+  
+}
+.red {
+  width: 60px;
+  height: 60px;
+  text-align: center;
+  background-color: red;
+  margin: 0 auto;
+  display: inline-block;
+  
+}
+
+.green {
+  width: 60px;
+  height: 60px;
+  text-align: center;
+  background-color: green;
+  margin: 0 auto;
+  display: inline-block;
+  
+}
+
+.light-green {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: green;
+  margin-left: 100px;
+  display: inline-block;
+}
+
+.light-red {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  margin-left: 100px;
+  display: inline-block;
+}
